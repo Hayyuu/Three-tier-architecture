@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\user\source\repos\ThreeTierArchitecture\BusinessLogic\obj\Debug\BusinessLogic.pdb
